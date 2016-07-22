@@ -1,0 +1,16 @@
+/* Footer design */
+#footer {
+  background-color: black;
+  padding: 30px 20px;
+  color: #999999
+}
+
+#footer a {
+  color: #999999;
+  letter-spacing: 20px;
+  transition: color 0.2s ease;
+}
+
+#footer a:hover {
+  color: #285E8E;
+}
